@@ -1,0 +1,7 @@
+/.venv
+/.coverage
+/build
+/downloads
+/private-*
+
+__pycache__

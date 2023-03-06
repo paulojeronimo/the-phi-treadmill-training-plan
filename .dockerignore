@@ -1,0 +1,6 @@
+/.venv
+/.coverage
+/build
+/downloads
+
+__pycache__
